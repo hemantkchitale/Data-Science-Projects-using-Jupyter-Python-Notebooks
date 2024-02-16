@@ -1,4 +1,4 @@
 Data Science Projects using Jupyter Python Notebooks
 
-While learning Python and Data Science on Coursera, I decided to do some more projects on my own.
+I plan to post my own Data Analytics / Data Science projects here.
 
